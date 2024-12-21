@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 
 ## About Me
 
-- 🌱 I’m currently working for Yody Fashion Tech.
+- 🌱 I’m currently working as a Mobile Engineer.
 - 👯 I’m looking to collaborate on interesting mobile app projects.
-- 💬 Ask me about Dart, Flutter, React Native, Nextjs.
-- 📫 How to reach me: trannhatan2803@gmail.com | www.linkedin.com/in/antrandeptrai
+- 💬 Ask me about Dart, Flutter, React Native.
+- 📫 How to reach me: trannhatan2803@gmail.com | www.linkedin.com/in/trannhatan
 
 ## My Skills
 
-![Skills](https://skillicons.dev/icons?i=flutter,dart,react,redux,android,ios,git,github&theme=light)
+![Skills](https://skillicons.dev/icons?i=flutter,dart,react,redux&theme=light)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anvuive456&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvuive456&layout=compact&theme=radical)
 
 ## Parrots Party
 
@@ -26,11 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Mobile Developer** with experti
 ![Parrot](https://cultofthepartyparrot.com/parrots/hd/sassyparrot.gif)
 ![Parrot](https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif)
 
-## Contact Me
-
-- 📧 trannhatan2803@gmail.com
-
-
 ---
 
-⭐️ From An Tran with passion
+⭐️ From An Tran with passion and love
